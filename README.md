@@ -1,7 +1,12 @@
-   # hello_microverse.
-+ ## Hello Microverse! Project
-+ > This projects main objectives are mostly to    practice and get an insight of how code reviewers rate or approve developers works.
-+
+   
++   # Hello Microverse Project!.
++  *In this hello microverse project setup, I added :
+   - **Html file boilerplate with elements necessary for this project.**
+   - **Css file with code to style the header**
+   - ** A .gitignore file with test.md and node_modules in it. Html & css Linters, eg; .stylelintrc.json,**
+     **.hintrc, linters.yml as they are without modifying them.**
+   - **A test.md file with text to be ignored by git.**
+   
    ## Author(s): **Frank Tembo**.
 + *Twitter:* @FrankTe147
  
