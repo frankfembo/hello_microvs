@@ -3,8 +3,8 @@
 +  *In this hello microverse project setup, I added :
    - **Html file boilerplate with elements necessary for this project.**
    - **Css file with code to style the header**
-   - ** A .gitignore file with test.md and node_modules in it. Html & css Linters, eg; .stylelintrc.json,**
-     **.hintrc, linters.yml as they are without modifying them.**
+   - **A .gitignore file with test.md and node_modules in it. Html & css Linters, eg; .stylelintrc.json,
+     .hintrc, linters.yml as they are without modifying them.**
    - **A test.md file with text to be ignored by git.**
    
    ## Author(s): **Frank Tembo**.
