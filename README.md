@@ -1,34 +1,43 @@
    
 +   # Hello Microverse Project!.
-+  *In this hello microverse project setup, I added :
++  *In this hello microverse project setup, I added :*
    - **Html file boilerplate with elements necessary for this project.**
    - **Css file with code to style the header**
    - **A .gitignore file with test.md and node_modules in it. Html & css Linters, eg; .stylelintrc.json,
      .hintrc, linters.yml as they are without modifying them.**
    - **A test.md file with text to be ignored by git.**
    
-   ## Author(s): **Frank Tembo**.
-+ *Twitter:* @FrankTe147
+   ## Author(s):
+         👤 **Author1**
++ *GitHub:* [@frankfembo](https://github.com/io/frankfembo)  
++ *Twitter:* [@FrankTe147](https://twitter.com/frankte147)
++ *LinkedIn:* [Frank-Tembo](https://linkedin.com/in/frank-tembo-559723234)
+
+         👤 **Author2**
++ *GitHub:* [@githubhandle](https://github.com/githubhandle)
++ *Twitter:* [@twitterhandle](https://twitter.com/twitterhandle)
++ *LinkedIn:* [LinkedIn](https://linkedin.com/in/linkedinhandle)
+
  
    ## Built With:
-+ *VSCode*
-+ *HTML5 & CSS3*
-+ *GitHub Flows*
-+ *Linters*
++ **Major languages:** Html5 & Css3
++ **Franmeworks:**
++ **Technologies used:**
 
    ## Live Demo:
-+ https://github.com/frankfembo/hello_microverse
++ [Live Demo Link](https://github.com/frankfembo/hello_microverse)
 
-   ## Contributors:
-+ *Contributions, issues, and features are welcome!   
-+ *Feel free to check the issue page.
+   ## 🤝 Contributing:
++ *Contributions, issues, and features are welcome!*  
++ *Feel free to check the [issue page](frankfembo/hello_microvs/issues/).*
   
    ## Show your support:
-+ *Give a star if you like this.
++ *Give a ⭐️ if you like this project!*
 
    ## Acknowledgements:
 + *Hat tip to anyone whose code was used.
-+ *Inspirations
++ *Inspirations*
++ *etc*
 
-   ## License:
-+ This project was Mit Licensed.
+   ##  📝 License:
++ This project was [MIT](./MIT.md) Licensed.
