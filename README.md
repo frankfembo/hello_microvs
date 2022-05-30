@@ -1,5 +1,5 @@
    
-+   # Hello Microverse Project!.
++   # Hello Microverse! (Project).
 +  *In this hello microverse project setup, I added :*
    - **Html file boilerplate with elements necessary for this project.**
    - **Css file with code to style the header**
