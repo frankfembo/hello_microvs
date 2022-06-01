@@ -1,9 +1,13 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Hello Microverse
 
-> Hello Microverse.
-
+> In this "hello microverse!" project, I:
+- Used html & css to setup.
+- Add linters for html-css.
+- Used correct github flow.
+- Add .gitignore file & target test.md in it
+- Add test.md file with text to be ignored by git
 
 ## Built With
 
