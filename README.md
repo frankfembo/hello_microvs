@@ -46,9 +46,9 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com.io/frankfembo)  
-- Twitter: [@twitterhandle](https://twitter.com/frankte147)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/frank-tembo-559723234)
+- GitHub: [@frankfembo](https://github.com.io/frankfembo)  
+- Twitter: [@FrankTe147](https://twitter.com/frankte147)
+- LinkedIn: [Frank-Tembo](https://linkedin.com/in/frank-tembo-559723234)
 
 👤 **Author2**
 
